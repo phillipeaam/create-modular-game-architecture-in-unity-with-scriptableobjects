@@ -1,0 +1,16 @@
+{
+    "name": "CMGAIUWS.ExtendableEnums.Inventory",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eda4f21a56d2442eb8e778d0a41d92b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

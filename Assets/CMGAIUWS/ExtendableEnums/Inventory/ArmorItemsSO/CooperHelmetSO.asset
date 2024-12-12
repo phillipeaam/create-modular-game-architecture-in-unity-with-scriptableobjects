@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef09bdea4c142c2a78f1f94a6082fe8, type: 3}
+  m_Name: CooperHelmetSO
+  m_EditorClassIdentifier: 
+  gameItemName: Cooper Helmet
+  gameItemDescription: Fine cooper details on this one.
+  armorItemName: Cooper Helmet
+  armorItemDescription: Fine cooper details on this one.
+  armorValue: 7
+  armorSlot: {fileID: 11400000, guid: 8572495ba8b704248a455f051275fe90, type: 2}
